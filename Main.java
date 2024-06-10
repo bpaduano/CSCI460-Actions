@@ -1,5 +1,7 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.printl("Hello World!");
-    }
-}
+def hello():
+  print("Hi")
+
+def bye():
+	print("bye")
+
+print(hello())
